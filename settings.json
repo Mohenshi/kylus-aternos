@@ -1,12 +1,12 @@
 {
   "bot-account": {
-    "username": "Kullanıcı Adı"
+    "username": "AfkBOT"
   },
 
   "server": {
-    "ip": "IP Adresi",
+    "ip": "babapirobrawlstar.aternos.me",
     "port": 25565,
-    "version": "1.16.5"
+    "version": "1.20.4"
   },
 
   "position": {
@@ -41,8 +41,8 @@
 
       "messages": [
         "Ben gerçek bir oyuncuyum! ",
-        "YouTube : KYLUS ",
-        "qHerox tarafından geliştirildim. "
+        "YouTube : Tarık ",
+        "Tarık tarafından geliştirildim. "
       ]
     },
 
